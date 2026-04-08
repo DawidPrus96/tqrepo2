@@ -1,0 +1,97 @@
+﻿{
+  "disabledtooltip": [],
+  "currentlyFocusedSackNumber": 6,
+  "currentlySelectedSackNumber": 0,
+  "sacks": [
+    {
+      "iconinfo": {
+        "mode": 1,
+        "label": "",
+        "on": "UI\\SKILLBUTTONS\\FLAMESTRIKEDOWNSMALL.TEX",
+        "off": "UI\\SKILLBUTTONS\\FLAMESTRIKEUPSMALL.TEX",
+        "over": "UI\\SKILLBUTTONS\\FLAMESTRIKEUPSMALL.TEX"
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 1,
+        "label": "",
+        "on": "ITEMS\\EQUIPMENTSHIELD\\UIBITMAPS\\C03_SHIELD02.TEX",
+        "off": "ITEMS\\EQUIPMENTSHIELD\\UIBITMAPS\\C03_SHIELD03.TEX",
+        "over": "ITEMS\\EQUIPMENTSHIELD\\UIBITMAPS\\C03_SHIELD01.TEX"
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 1,
+        "label": "",
+        "on": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\C04_HELM01.TEX",
+        "off": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\C04_HELM03.TEX",
+        "over": "ITEMS\\EQUIPMENTHELM\\UIBITMAPS\\C04_HELM02.TEX"
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 1,
+        "label": "",
+        "on": "ITEMS\\EQUIPMENTGREAVES\\UIBITMAPS\\C05B_GREAVES05.TEX",
+        "off": "ITEMS\\EQUIPMENTGREAVES\\UIBITMAPS\\C05B_GREAVES03.TEX",
+        "over": "ITEMS\\EQUIPMENTGREAVES\\UIBITMAPS\\C05B_GREAVES04.TEX"
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 1,
+        "label": "",
+        "on": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\C01_BRACELET05.TEX",
+        "off": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\C01_BRACELET04.TEX",
+        "over": "ITEMS\\EQUIPMENTARMBAND\\UIBITMAPS\\C01_BRACELET01.TEX"
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 1,
+        "label": "",
+        "on": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGDOWN01.TEX",
+        "off": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGUP01.TEX",
+        "over": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\RENDARMORUP01.TEX"
+      },
+      "items": []
+    },
+    {
+      "iconinfo": {
+        "mode": 1,
+        "label": "",
+        "on": "ITEMS\\EQUIPMENT AMULET\\UIBITMAPS\\C01_AMULET05.TEX",
+        "off": "ITEMS\\EQUIPMENT AMULET\\UIBITMAPS\\C01_AMULET04.TEX",
+        "over": "ITEMS\\EQUIPMENT AMULET\\UIBITMAPS\\C01_AMULET01.TEX"
+      },
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    }
+  ]
+}
