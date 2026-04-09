@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 9,
+  "currentlySelectedSackNumber": 8,
   "sacks": [
     {
       "iconinfo": null,
@@ -1112,7 +1112,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 8,
           "pointY": 0
         }
@@ -1177,7 +1177,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 14,
           "pointY": 7
         },
@@ -1192,7 +1192,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 16,
           "pointY": 7
         }
@@ -1227,7 +1227,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 6,
           "pointY": 7
         },
@@ -1242,61 +1242,15 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 12,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 2503,
-          "baseName": "Records\\Item\\EquipmentGreaves\\US_E_Tempest.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 5
         }
       ]
     },
     {
       "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 27932,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_SoulQuencher.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 14589,
-          "baseName": "Records\\Item\\EquipmentArmband\\US_E_AspectoftheWild.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
-          "pointY": 0
-        }
-      ]
+      "items": []
     },
     {
       "iconinfo": null,

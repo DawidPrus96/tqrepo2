@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": {
@@ -145,21 +145,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
-          "seed": 18985,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_GA_FinalBreath_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
           "pointY": 12
         },
         {
@@ -179,21 +164,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 20886,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_EbonyGlobe_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
           "seed": 25427,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_NexusOfInsanity_Formula.dbr",
           "prefixName": "",
@@ -209,21 +179,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 10731,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_NexusOfInsanity_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
           "seed": 32425,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_PhylacteryOfShadows_Formula.dbr",
           "prefixName": "",
@@ -235,7 +190,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 17
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -250,7 +205,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 18
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -265,12 +220,12 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 19
+          "pointY": 18
         },
         {
           "stackSize": 1,
-          "seed": 27844,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_TomeOfTransfiguration_Formula.dbr",
+          "seed": 8622,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_GA_DruidicWreath_Formula.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -278,9 +233,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 0
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -295,7 +250,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 1
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -310,7 +265,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 2
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -325,7 +280,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 3
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -340,7 +295,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 4
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -355,7 +310,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 5
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -370,7 +325,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 6
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -385,7 +340,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 7
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -400,7 +355,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 8
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -415,7 +370,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 9
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -430,7 +385,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 10
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -445,7 +400,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 11
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -460,7 +415,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 12
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -475,7 +430,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 13
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -490,7 +445,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 14
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -505,7 +460,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 15
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -520,7 +475,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 16
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -535,7 +490,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 17
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -550,7 +505,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 18
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -565,7 +520,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 19
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -579,8 +534,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
+          "pointX": 2,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -595,7 +550,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 1
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -610,7 +565,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 2
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -625,7 +580,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 3
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -640,7 +595,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 4
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -655,7 +610,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 5
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -670,7 +625,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 6
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -685,7 +640,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 7
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -700,7 +655,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 8
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -715,7 +670,37 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 20886,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_EbonyGlobe_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 10731,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_NexusOfInsanity_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 10
         }
       ]
     },
@@ -1900,36 +1885,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 10136,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_BatFang.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_DamageBonus_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2085197424,
-          "pointX": 3,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 3593,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_BoarsHide.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1060082016,
-          "pointX": 3,
-          "pointY": 19
-        },
-        {
-          "stackSize": 1,
           "seed": 31024,
           "baseName": "Records\\Item\\AnimalRelics\\02_Act1_PristinePlumage.dbr",
           "prefixName": "",
@@ -1940,203 +1895,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 3567,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1528924368,
-          "pointX": 4,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 601,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_DamagePierce_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1496130752,
-          "pointX": 4,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 21534,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act2_VileIchor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_DamagePoison_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1570930872,
-          "pointX": 4,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 17032,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act3_RaptorTooth.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_03.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1275448520,
-          "pointX": 4,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 29050,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act3_YetiFur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1373559976,
-          "pointX": 4,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 16486,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_DemonsBlood.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2026001504,
-          "pointX": 4,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 15114,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_DiseasedPlumage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1018548008,
-          "pointX": 4,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 15563,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_MechanicalParts.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1550060744,
-          "pointX": 4,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 31987,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_RigidCarapace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1574363376,
-          "pointX": 4,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 2888,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_RigidCarapace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_05.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 950042768,
-          "pointX": 4,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 17753,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_SpectralMatter.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1486708688,
-          "pointX": 4,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
-          "seed": 3092,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_VenomSac.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1002914232,
-          "pointX": 4,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 17501,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_VenomSac.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1026862344,
-          "pointX": 4,
-          "pointY": 13
+          "pointX": 3,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -2151,7 +1911,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 14
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -2166,7 +1926,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 15
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -2181,7 +1941,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 16
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2196,7 +1956,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 17
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -2211,7 +1971,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 18
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -2226,7 +1986,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 19
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -2240,8 +2000,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 0
+          "pointX": 4,
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -2255,8 +2015,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 1
+          "pointX": 4,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -2270,8 +2030,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 2
+          "pointX": 4,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -2285,8 +2045,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 3
+          "pointX": 4,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -2300,8 +2060,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 4
+          "pointX": 4,
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -2315,8 +2075,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 5
+          "pointX": 4,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -2330,8 +2090,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 6
+          "pointX": 4,
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -2345,8 +2105,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 7
+          "pointX": 4,
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -2360,8 +2120,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 8
+          "pointX": 4,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -2375,8 +2135,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 9
+          "pointX": 4,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -2390,8 +2150,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 10
+          "pointX": 4,
+          "pointY": 17
         }
       ]
     },
@@ -2481,21 +2241,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 1074,
-          "baseName": "records\\item\\HCDungeon\\03_X4_EssenceOfChaos.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Relics\\Chaos_2.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 23225,
           "baseName": "records\\item\\HCDungeon\\03_X4_EssenceOfOrder_Charm.dbr",
           "prefixName": "",
@@ -2507,7 +2252,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 6
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -2522,7 +2267,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 7
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -2537,7 +2282,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 8
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -2552,7 +2297,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 9
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -2567,22 +2312,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 18811,
-          "baseName": "records\\item\\HCDungeon\\03_X4_EssenceOfOrder_Charm.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\EssenceOfOrder_2.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 11
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -2597,7 +2327,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 12
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -2612,7 +2342,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 13
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -2627,7 +2357,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 14
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -2642,7 +2372,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 15
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -2657,7 +2387,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 16
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -2672,7 +2402,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 17
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -2687,7 +2417,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 18
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -2702,7 +2432,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 19
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -2716,8 +2446,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -2731,8 +2461,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 1
+          "pointX": 0,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -2747,7 +2477,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 2
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -2762,7 +2492,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 3
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -2777,7 +2507,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 4
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -2792,7 +2522,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 5
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2807,7 +2537,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 6
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -2822,7 +2552,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 7
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -2837,7 +2567,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 8
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -2852,22 +2582,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 12835,
-          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistElemental_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 1,
-          "pointY": 10
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -2882,7 +2597,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 11
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -2897,7 +2612,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 12
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -2912,7 +2627,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 13
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -2927,7 +2642,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 14
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -2942,7 +2657,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 15
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -2957,7 +2672,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 16
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -2972,7 +2687,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 17
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -2987,7 +2702,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 18
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -3002,7 +2717,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 19
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -3016,8 +2731,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
+          "pointX": 1,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -3031,8 +2746,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 1
+          "pointX": 1,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -3046,8 +2761,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 2
+          "pointX": 1,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -3062,7 +2777,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 3
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -3077,7 +2792,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 4
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -3092,7 +2807,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 5
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -3107,7 +2822,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 6
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -3122,7 +2837,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 7
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -3137,7 +2852,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 8
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -3152,7 +2867,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 9
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -3167,7 +2882,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 10
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -3182,7 +2897,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 11
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -3197,7 +2912,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 12
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -3212,7 +2927,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 13
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -3227,7 +2942,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 14
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -3242,7 +2957,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 15
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -3257,7 +2972,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 16
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -3272,7 +2987,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 17
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -3287,7 +3002,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 18
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -3302,7 +3017,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 19
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -3316,8 +3031,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 0
+          "pointX": 2,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -3331,8 +3046,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 1
+          "pointX": 2,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -3346,8 +3061,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 2
+          "pointX": 2,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -3362,7 +3077,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 3
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -3377,7 +3092,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 4
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -3392,7 +3107,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 5
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -3407,7 +3122,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 6
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -3422,7 +3137,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 7
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -3437,7 +3152,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 8
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -3452,7 +3167,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 9
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -3467,7 +3182,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 10
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -3482,7 +3197,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 11
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -3497,7 +3212,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 12
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -3512,7 +3227,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 13
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -3527,7 +3242,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 14
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -3542,7 +3257,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 15
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -3557,7 +3272,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 16
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -3572,7 +3287,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 17
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -3587,7 +3302,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 18
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -3602,7 +3317,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 19
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -3616,8 +3331,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
+          "pointX": 3,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -3631,8 +3346,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 1
+          "pointX": 3,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -3646,8 +3361,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 2
+          "pointX": 3,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -3662,7 +3377,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 3
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -3677,7 +3392,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 4
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -3692,7 +3407,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 5
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -3707,7 +3422,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 6
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -3722,7 +3437,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 7
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -3737,7 +3452,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 8
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -3752,7 +3467,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 9
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -3767,7 +3482,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 10
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -3782,7 +3497,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 11
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -3797,7 +3512,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 12
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -3812,7 +3527,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 13
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -3827,7 +3542,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 14
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -3842,7 +3557,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 15
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -3857,7 +3572,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 16
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -3872,7 +3587,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 17
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -3887,7 +3602,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 18
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -3902,7 +3617,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 19
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -3916,8 +3631,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 0
+          "pointX": 4,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -3931,8 +3646,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 1
+          "pointX": 4,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -3946,8 +3661,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 2
+          "pointX": 4,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -3962,7 +3677,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 3
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -3977,7 +3692,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 4
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -3992,7 +3707,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 5
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -4007,7 +3722,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 6
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -4022,7 +3737,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 7
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -4037,7 +3752,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 8
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -4052,22 +3767,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 19799,
-          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 15,
-          "pointX": 5,
-          "pointY": 10
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -4082,7 +3782,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 11
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -4097,7 +3797,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 12
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -4112,7 +3812,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 13
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -4127,7 +3827,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 14
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -4142,7 +3842,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 15
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -4157,7 +3857,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 16
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -4172,7 +3872,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 17
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -4187,7 +3887,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 18
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -4202,7 +3902,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 19
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -4216,8 +3916,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
+          "pointX": 5,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -4231,8 +3931,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 1
+          "pointX": 5,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -4246,8 +3946,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 2
+          "pointX": 5,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -4261,8 +3961,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
+          "pointX": 5,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -4277,7 +3977,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 4
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -4292,7 +3992,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 5
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -4307,7 +4007,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 6
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -4322,7 +4022,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 7
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -4337,7 +4037,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 8
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -4352,7 +4052,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 9
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -4367,22 +4067,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 10492,
-          "baseName": "Records\\Item\\Relics\\02_Act1_ArchimedesMirror.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
-          "pointY": 11
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -4397,7 +4082,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 12
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -4412,22 +4097,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 18227,
-          "baseName": "Records\\Item\\Relics\\02_Act1_DionysusWineskin.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1610550784,
-          "pointX": 6,
-          "pointY": 14
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -4442,7 +4112,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 15
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -4457,22 +4127,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 18277,
-          "baseName": "Records\\Item\\Relics\\02_Act1_GoldenFleece.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
-          "pointY": 17
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -4487,7 +4142,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 18
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -4502,7 +4157,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 19
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -4516,8 +4171,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 0
+          "pointX": 6,
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -4531,8 +4186,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 1
+          "pointX": 6,
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -4546,8 +4201,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 2
+          "pointX": 6,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -4561,8 +4216,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 3
+          "pointX": 6,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -4576,23 +4231,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 12323,
-          "baseName": "Records\\Item\\Relics\\02_Act1_PrometheusFlame.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 5
+          "pointX": 6,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -4606,38 +4246,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 9656,
-          "baseName": "Records\\Item\\Relics\\02_Act1_ValorOfAchilles.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 4250,
-          "baseName": "Records\\Item\\Relics\\02_Act1_ValorOfAchilles.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_+%Damage_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 8
+          "pointX": 6,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -4652,397 +4262,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 7,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 1074,
-          "baseName": "Records\\Item\\Relics\\02_Act1_ZeusThunderbolt.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 1573,
-          "baseName": "Records\\Item\\Relics\\02_Act1_ZeusThunderbolt.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1345616032,
-          "pointX": 7,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
-          "seed": 18017,
-          "baseName": "Records\\Item\\Relics\\02_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 2564,
-          "baseName": "Records\\Item\\Relics\\02_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1611127984,
-          "pointX": 7,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 16802,
-          "baseName": "Records\\Item\\Relics\\02_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 23534,
-          "baseName": "Records\\Item\\Relics\\02_Act2_AnubisWrath.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 22513,
-          "baseName": "Records\\Item\\Relics\\02_Act2_DjedOfOsiris.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Undead_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 17420,
-          "baseName": "Records\\Item\\Relics\\02_Act2_DjedOfOsiris.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Undead_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
-          "seed": 22471,
-          "baseName": "Records\\Item\\Relics\\02_Act2_DjedOfOsiris.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 990383232,
-          "pointX": 7,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 31655,
-          "baseName": "Records\\Item\\Relics\\02_Act2_SetsBetrayal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 19
-        },
-        {
-          "stackSize": 1,
-          "seed": 4190,
-          "baseName": "Records\\Item\\Relics\\02_Act2_SetsBetrayal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 8125,
-          "baseName": "Records\\Item\\Relics\\02_Act2_UdjatOfHorus.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_05.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1157105112,
-          "pointX": 8,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 23981,
-          "baseName": "Records\\Item\\Relics\\02_Act2_UdjatOfHorus.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 822,
-          "baseName": "Records\\Item\\Relics\\02_Act3_CodeOfHammurabi.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Intelligence_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 11856,
-          "baseName": "Records\\Item\\Relics\\02_Act3_CodeOfHammurabi.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 11108,
-          "baseName": "Records\\Item\\Relics\\02_Act3_DragonKingsDomain.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 19915,
-          "baseName": "Records\\Item\\Relics\\02_Act3_DragonKingsDomain.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 25736,
-          "baseName": "Records\\Item\\Relics\\02_Act3_GuanYusGrace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_05.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 8128,
-          "baseName": "Records\\Item\\Relics\\02_Act3_GuanYusGrace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_05.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 27388,
-          "baseName": "Records\\Item\\Relics\\02_Act3_JadeEmperorsSerenity.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 31859,
-          "baseName": "Records\\Item\\Relics\\02_Act3_LiNezhasGuile.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedRun_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 29753,
-          "baseName": "Records\\Item\\Relics\\02_Act3_MonkeyKingsTrickery.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
-          "seed": 11607,
-          "baseName": "Records\\Item\\Relics\\02_Act3_ShenNongsDarkMedicine.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 12443,
-          "baseName": "Records\\Item\\Relics\\02_Act3_ShenNongsDarkMedicine.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 29611,
-          "baseName": "Records\\Item\\Relics\\02_Act3_YenLoWangsBloodletting.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 7869,
-          "baseName": "Records\\Item\\Relics\\02_Act3_YenLoWangsBloodletting.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -5056,8 +4276,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 16
+          "pointX": 7,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -5071,8 +4291,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 17
+          "pointX": 7,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -5086,8 +4306,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 18
+          "pointX": 7,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -5101,8 +4321,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 19
+          "pointX": 7,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -5116,8 +4336,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 0
+          "pointX": 7,
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -5131,8 +4351,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 1
+          "pointX": 7,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -5146,8 +4366,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 2
+          "pointX": 7,
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -5161,8 +4381,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 3
+          "pointX": 7,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -5176,8 +4396,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 4
+          "pointX": 7,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -5191,8 +4411,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 5
+          "pointX": 7,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -5206,8 +4426,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 6
+          "pointX": 7,
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -5221,8 +4441,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 7
+          "pointX": 7,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -5236,8 +4456,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 8
+          "pointX": 7,
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -5251,8 +4471,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 9
+          "pointX": 7,
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -5266,8 +4486,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 10
+          "pointX": 7,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -5281,8 +4501,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 11
+          "pointX": 7,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -5296,8 +4516,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 12
+          "pointX": 7,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -5311,8 +4531,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 13
+          "pointX": 7,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -5326,8 +4546,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 14
+          "pointX": 7,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -5341,8 +4561,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 15
+          "pointX": 8,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -5356,8 +4576,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 16
+          "pointX": 8,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -5371,8 +4591,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 17
+          "pointX": 8,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -5386,8 +4606,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 18
+          "pointX": 8,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -5401,8 +4621,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 19
+          "pointX": 8,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -5416,8 +4636,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
+          "pointX": 8,
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -5431,8 +4651,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 1
+          "pointX": 8,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -5446,8 +4666,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 2
+          "pointX": 8,
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -5461,8 +4681,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 3
+          "pointX": 8,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -5476,8 +4696,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 4
+          "pointX": 8,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -5491,8 +4711,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 5
+          "pointX": 8,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -5506,8 +4726,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 6
+          "pointX": 8,
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -5521,8 +4741,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 7
+          "pointX": 8,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -5536,8 +4756,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 8
+          "pointX": 8,
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -5551,8 +4771,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 9
+          "pointX": 8,
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -5566,8 +4786,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 10
+          "pointX": 8,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -5581,8 +4801,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 11
+          "pointX": 8,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -5596,8 +4816,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 12
+          "pointX": 8,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -5611,8 +4831,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 13
+          "pointX": 8,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -5626,8 +4846,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 14
+          "pointX": 8,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -5641,8 +4861,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 15
+          "pointX": 9,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -5656,8 +4876,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 16
+          "pointX": 9,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -5671,8 +4891,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 17
+          "pointX": 9,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -5686,8 +4906,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 18
+          "pointX": 9,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -5701,8 +4921,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 19
+          "pointX": 9,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -5716,8 +4936,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 0
+          "pointX": 9,
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -5731,8 +4951,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 1
+          "pointX": 9,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -5746,8 +4966,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 2
+          "pointX": 9,
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -5761,8 +4981,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 3
+          "pointX": 9,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -5776,8 +4996,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 4
+          "pointX": 9,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -5791,8 +5011,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 5
+          "pointX": 9,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -5806,8 +5026,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 6
+          "pointX": 9,
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -5821,8 +5041,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 7
+          "pointX": 9,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -5836,8 +5056,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 8
+          "pointX": 9,
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -5851,8 +5071,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 9
+          "pointX": 9,
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -5866,8 +5086,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 10
+          "pointX": 9,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -5881,8 +5101,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 11
+          "pointX": 9,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -5896,8 +5116,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 12
+          "pointX": 9,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -5911,8 +5131,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 13
+          "pointX": 9,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -5926,8 +5146,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 14
+          "pointX": 9,
+          "pointY": 19
         }
       ]
     },
@@ -6108,7 +5328,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 6,
           "pointY": 0
         },
@@ -6123,7 +5343,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 10
         },
@@ -6138,14 +5358,14 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 6
         },
         {
           "stackSize": 1,
-          "seed": 24965,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_B.dbr",
+          "seed": 25129,
+          "baseName": "records\\item\\HCDungeon\\x4_HCDung_E_KeySlab_QuestItem_C.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -6154,38 +5374,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 30510,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_B.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 8951,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_C.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 4
+          "pointX": 6,
+          "pointY": 10
         }
       ]
     },
@@ -6223,7 +5413,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 7,
           "pointY": 0
         },
@@ -6301,36 +5491,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 13624,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_DemetersBounty_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 8622,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_GA_DruidicWreath_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 9
         }
       ]
     }

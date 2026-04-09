@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": {
@@ -608,7 +608,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1915285568,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 9
         },
@@ -623,7 +623,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 13
         }
@@ -964,7 +964,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
         }
@@ -1286,7 +1286,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 16
         }
@@ -1608,7 +1608,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 9
         },
@@ -1623,7 +1623,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
         }
@@ -1922,6 +1922,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 2071,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_Serenity.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 19
         }
       ]
     },
