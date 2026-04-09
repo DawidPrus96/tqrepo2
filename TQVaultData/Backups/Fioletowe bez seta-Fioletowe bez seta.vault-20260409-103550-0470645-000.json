@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": {
@@ -71,51 +71,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 8455,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Archon'sJudgement.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 14966,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Borealis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 29311,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_StymphalianTalon.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 0
         }
       ]
     },
@@ -159,7 +114,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 0
         }
@@ -200,7 +155,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 2
         }
@@ -214,23 +169,7 @@
         "off": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\ARMORHANDLINGUP01.TEX",
         "over": "INGAMEUI\\ICONS\\SKILLS\\DEFENSIVE\\RENDARMORUP01.TEX"
       },
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 10369,
-          "baseName": "Records\\Item\\EquipmentArmor\\Um_L_MindrageRobe.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 0
-        }
-      ]
+      "items": []
     },
     {
       "iconinfo": {
@@ -255,51 +194,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 9132,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_EssenceofStyx.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 26469,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_Myrmidon'sPendant.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 8400,
-          "baseName": "Records\\Item\\EquipmentRing\\U_L_MarkofAres.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 3
         }
       ]
     },
