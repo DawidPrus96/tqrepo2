@@ -58,6 +58,21 @@
       "items": [
         {
           "stackSize": 1,
+          "seed": 23158,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_L_Hector'sFlashingHelm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 23250,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_E_VestmentsoftheBattlemage.dbr",
           "prefixName": "",
@@ -67,7 +82,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 12,
           "pointY": 7
         },
@@ -85,21 +100,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 25033,
-          "baseName": "Records\\Item\\EquipmentGreaves\\USm_E_VestmentsoftheBattlemage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 5
         }
       ]
     },

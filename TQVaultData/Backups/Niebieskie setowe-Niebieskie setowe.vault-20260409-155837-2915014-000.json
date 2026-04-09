@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 8,
+  "currentlySelectedSackNumber": 11,
   "sacks": [
     {
       "iconinfo": null,
@@ -242,7 +242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 12,
           "pointY": 12
         }
@@ -1100,21 +1100,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 31309,
-          "baseName": "Records\\Item\\EquipmentArmband\\US_E_ShadowGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 0
         }
       ]
     },
@@ -1162,38 +1147,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 12,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 12433,
-          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_Adept'sRegalia.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 21446,
-          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_Adept'sRegalia.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
           "pointY": 7
         }
       ]
@@ -1212,39 +1167,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 7480,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_E_RaimentoftheStorm.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 13901,
-          "baseName": "Records\\Item\\EquipmentArmband\\US_E_Hunter'sArmor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 0
         }
       ]
     },
@@ -1600,7 +1525,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 12,
           "pointY": 1
         }

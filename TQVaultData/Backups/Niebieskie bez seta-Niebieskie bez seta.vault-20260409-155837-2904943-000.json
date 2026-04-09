@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": {
@@ -578,7 +578,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1915285568,
           "pointX": 9,
           "pointY": 0
         },
@@ -593,39 +593,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 9,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 4439,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1915285568,
-          "pointX": 9,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 28302,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Meriones'Bow.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 11,
-          "pointY": 13
         }
       ]
     },
@@ -952,21 +922,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 2584,
-          "baseName": "Records\\Item\\EquipmentShield\\U_E_FlowingShieldOfTheEuphrates.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 6
         }
       ]
     },
@@ -1274,21 +1229,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 13690,
-          "baseName": "Records\\Item\\EquipmentGreaves\\U_E_Nebuchadnezzar'sGreaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 16
         }
       ]
     },
@@ -1596,36 +1536,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 8377,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Chu'sQuiver.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 25552,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Do-Maru.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 12
         }
       ]
     },
@@ -1649,7 +1559,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 0
         },
@@ -1784,7 +1694,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 9
         },
