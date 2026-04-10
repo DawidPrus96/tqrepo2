@@ -1082,7 +1082,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": -2147483648,
           "pointX": 12,
           "pointY": 2
         }
@@ -1333,6 +1333,36 @@
         },
         {
           "stackSize": 1,
+          "seed": 19704,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 18030,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
           "seed": 20380,
           "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_amulet.dbr",
           "prefixName": "",
@@ -1363,6 +1393,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 16952,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_arms.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
           "seed": 25842,
           "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_head.dbr",
           "prefixName": "",
@@ -1374,6 +1419,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 31885,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_head.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 5
         },
         {
@@ -1423,21 +1483,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 18030,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 16087,
           "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_arms.dbr",
           "prefixName": "",
@@ -1447,8 +1492,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 1
         }
       ]
@@ -1488,6 +1533,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 14795,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_arms.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
           "seed": 11192,
           "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_arms.dbr",
           "prefixName": "",
@@ -1514,6 +1574,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 20384,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_arms.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
           "pointY": 1
         },
         {
@@ -1758,6 +1833,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 13025,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_arms.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
           "seed": 29769,
           "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_ring_01.dbr",
           "prefixName": "",
@@ -1799,51 +1889,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 14,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 20384,
-          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_arms.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 14795,
-          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_arms.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 13025,
-          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_arms.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
           "pointY": 1
         }
       ]
