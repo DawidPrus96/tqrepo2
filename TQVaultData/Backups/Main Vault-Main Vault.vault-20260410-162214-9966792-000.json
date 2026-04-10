@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 10,
   "sacks": [
     {
       "iconinfo": {
@@ -1909,7 +1909,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1445392576,
           "pointX": 3,
           "pointY": 19
         },
@@ -2119,7 +2119,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 13
         },
@@ -2580,7 +2580,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 12
         },
@@ -2595,7 +2595,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 13
         },
@@ -4890,7 +4890,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 8,
           "pointY": 6
         },
@@ -4935,7 +4935,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 8,
           "pointY": 9
         },
@@ -4980,7 +4980,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 8,
           "pointY": 12
         },
@@ -5010,7 +5010,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 8,
           "pointY": 14
         },
@@ -5973,21 +5973,6 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 6197,
-          "baseName": "records\\item\\HCDungeon\\03_X4_EssenceOfChaos.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Relics\\Chaos_4.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 11,
-          "pointY": 19
         }
       ]
     },
@@ -6026,7 +6011,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 0
         },
@@ -6041,7 +6026,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1151598116,
           "pointX": 4,
           "pointY": 0
         },
@@ -6056,7 +6041,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 6,
           "pointY": 0
         }
@@ -6330,7 +6315,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 7,
           "pointY": 0
         },
@@ -6345,7 +6330,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1151598116,
           "pointX": 16,
           "pointY": 1
         },
