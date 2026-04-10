@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": {
@@ -29,21 +29,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 10398,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Archon'sJudgement.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 23681,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_ChromaticStaff.dbr",
           "prefixName": "",
@@ -53,9 +38,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -68,9 +53,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -84,8 +69,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 16
+          "pointX": 6,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -99,23 +84,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 8,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 24930,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_L_Hecate'sRod.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -129,8 +99,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 8
+          "pointX": 10,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -144,38 +114,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 8108,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_L_Apollo'sCurvedBow.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 16601,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_L_BowofEurytus.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 3,
-          "pointY": 12
+          "pointX": 12,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -188,9 +128,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 16
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -203,8 +143,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
+          "var2": 1065353216,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -219,53 +159,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 22300,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_DoxaKalo.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 487,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_DoxaKalo.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 1364,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_Silence.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 16
+          "pointX": 15,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -279,7 +174,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 16,
           "pointY": 0
         },
         {
@@ -293,8 +188,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
+          "var2": 1065353216,
+          "pointX": 16,
           "pointY": 3
         },
         {
@@ -309,8 +204,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 6
+          "pointX": 0,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -324,8 +219,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 9
+          "pointX": 1,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -339,13 +234,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 12
+          "pointX": 2,
+          "pointY": 4
         },
         {
           "stackSize": 1,
-          "seed": 18754,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_Zhanlu.dbr",
+          "seed": 24930,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_L_Hecate'sRod.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -354,8 +249,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 1065353216,
-          "pointX": 5,
-          "pointY": 15
+          "pointX": 9,
+          "pointY": 7
         }
       ]
     },
@@ -457,21 +352,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 9170,
-          "baseName": "Records\\Item\\EquipmentShield\\U_E_EidolonShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 3
         }
       ]
     },
@@ -561,24 +441,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 27220,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Diogenes'Wrap.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 0,
-          "pointY": 6
+          "pointY": 4
         }
       ]
     },
@@ -632,7 +497,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 6
         }
@@ -751,96 +616,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 7655,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_Myrmidon'sPendant.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 16846,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_NecklaceofHarmonia.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 16786,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_Polaris.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 17560,
-          "baseName": "Records\\Item\\EquipmentRing\\U_L_EyeofHorus.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 15368,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_PendantOfImmortalRage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
-          "seed": 28941,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_Shavo'sRelic.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 12
         }
       ]
     },

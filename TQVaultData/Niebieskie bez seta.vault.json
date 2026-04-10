@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": {
@@ -626,6 +626,21 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 21315,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
@@ -1172,6 +1187,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 13690,
+          "baseName": "Records\\Item\\EquipmentGreaves\\U_E_Nebuchadnezzar'sGreaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 19783,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_N_JunglerootGreaves.dbr",
           "prefixName": "",
@@ -1182,8 +1212,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
+          "pointX": 4,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1197,8 +1227,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
+          "pointX": 6,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1212,8 +1242,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
+          "pointX": 8,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1227,8 +1257,23 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27546,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_e_05.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1242,8 +1287,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 10
+          "pointX": 14,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1257,8 +1302,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
+          "pointX": 16,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1273,22 +1318,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 13690,
-          "baseName": "Records\\Item\\EquipmentGreaves\\U_E_Nebuchadnezzar'sGreaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 16
+          "pointY": 2
         }
       ]
     },
@@ -1934,7 +1964,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 19
         }
