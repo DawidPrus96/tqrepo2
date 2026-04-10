@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": {
@@ -12,21 +12,6 @@
         "over": "UI\\SKILLBUTTONS\\FLAMESTRIKEUPSMALL.TEX"
       },
       "items": [
-        {
-          "stackSize": 1,
-          "seed": 24520,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_PenetratingSpearOfKok'Bi.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
         {
           "stackSize": 1,
           "seed": 4418,
@@ -40,7 +25,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 5
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -55,7 +40,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 10
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -70,7 +55,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 15
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -84,8 +69,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -100,37 +85,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 4439,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 21315,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 14
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -144,8 +99,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
+          "pointX": 1,
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -159,8 +114,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 4
+          "pointX": 1,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -174,23 +129,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 13632,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Daedalus'Dread.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 12
+          "pointX": 1,
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -204,8 +144,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 16
+          "pointX": 2,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -219,38 +159,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 3,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 17454,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Meriones'Bow.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 28302,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Meriones'Bow.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -264,23 +174,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 19806,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_SpectralWarbow.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 5,
-          "pointY": 0
+          "pointX": 3,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -294,8 +189,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 4
+          "pointX": 3,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -309,8 +204,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 8
+          "pointX": 3,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -324,8 +219,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 12
+          "pointX": 3,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -339,8 +234,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 16
+          "pointX": 4,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -354,22 +249,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 6699,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_Despair.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 4
         },
         {
@@ -384,7 +264,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 8
         },
         {
@@ -399,7 +279,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 12
         },
         {
@@ -414,7 +294,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 16
         },
         {
@@ -429,8 +309,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 0
+          "pointX": 1,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -444,8 +324,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 3
+          "pointX": 5,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -459,8 +339,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 6
+          "pointX": 5,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -474,8 +354,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 9
+          "pointX": 5,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -489,8 +369,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 12
+          "pointX": 5,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -504,23 +384,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 16630,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_AmmitsFang.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 0
+          "pointX": 5,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -534,8 +399,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 3
+          "pointX": 5,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -549,23 +414,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 18257,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_MinoanFireAxe.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 9
+          "pointX": 6,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -579,7 +429,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 5,
           "pointY": 18
         },
         {
@@ -595,7 +445,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 7,
-          "pointY": 18
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -609,8 +459,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 12
+          "pointX": 7,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -624,8 +474,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 14
+          "pointX": 7,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -639,8 +489,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 16
+          "pointX": 7,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -654,8 +504,143 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 7,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 18257,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_MinoanFireAxe.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 17454,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Meriones'Bow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 24520,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_PenetratingSpearOfKok'Bi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 16630,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_AmmitsFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 6699,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_Despair.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13632,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Daedalus'Dread.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 4439,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 28302,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Meriones'Bow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 11,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 21315,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
@@ -1286,7 +1271,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 12,
           "pointY": 0
         },
