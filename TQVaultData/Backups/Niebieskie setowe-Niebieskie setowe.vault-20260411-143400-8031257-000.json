@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -400,36 +400,6 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 26978,
-          "baseName": "Records\\Item\\EquipmentArmband\\US_E_ShadowGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 31309,
-          "baseName": "Records\\Item\\EquipmentArmband\\US_E_ShadowGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 0
         }
       ]
     },
@@ -1007,7 +977,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 8,
           "pointY": 5
         }
@@ -1089,36 +1059,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 1274,
-          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_Adept'sRegalia.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 21446,
-          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_Adept'sRegalia.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
           "pointY": 7
         }
       ]
@@ -1812,7 +1752,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 10937296,
           "pointX": 0,
           "pointY": 9
         },
@@ -1827,39 +1767,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 10937296,
           "pointX": 0,
           "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 11762,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Z_Cowboy01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 13,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 23835,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Z_Cowboy01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 11,
-          "pointY": 16
         }
       ]
     }

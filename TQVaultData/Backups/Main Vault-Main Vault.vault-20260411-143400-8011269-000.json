@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": {
@@ -134,21 +134,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 28316,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_BloodOfAres_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
           "seed": 7250,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_GA_EffigyOfSkyfire_Formula.dbr",
           "prefixName": "",
@@ -160,7 +145,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 12
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -175,7 +160,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 13
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -190,7 +175,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 14
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -205,7 +190,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 15
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -220,22 +205,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 18583,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_EmeraldQuill_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 974143992,
-          "pointX": 0,
-          "pointY": 17
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -250,7 +220,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 18
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -265,7 +235,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 19
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -279,8 +249,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -294,8 +264,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 1
+          "pointX": 0,
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -310,7 +280,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 2
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -325,7 +295,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 3
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -340,7 +310,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 4
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -355,7 +325,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 5
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -370,7 +340,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 6
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -385,7 +355,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 7
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -400,7 +370,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 8
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -415,7 +385,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 9
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -430,7 +400,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 10
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -445,7 +415,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 11
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -460,7 +430,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 12
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -475,12 +445,42 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 13
+          "pointY": 11
         },
         {
           "stackSize": 1,
           "seed": 11601,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Bloodrage_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 21347,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Leafsong_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 10940,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Leafsong_Formula.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -716,6 +716,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 28316,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_BloodOfAres_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1324096432,
+          "pointX": 4,
+          "pointY": 10
         }
       ]
     },
@@ -877,6 +892,36 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 8011,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 17747,
+          "baseName": "records\\item\\animalrelics\\01_act1_pristineplumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -2748,6 +2793,36 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 1738,
+          "baseName": "records\\item\\relics\\01_act1_goldenfleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 9832,
+          "baseName": "records\\item\\relics\\01_act1_goldenfleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -6026,12 +6101,12 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 926007160,
           "pointX": 8,
           "pointY": 0
         },
         {
-          "stackSize": 8,
+          "stackSize": 3,
           "seed": 14614,
           "baseName": "Records\\XPack\\Item\\Scrolls\\02_ElementalShielding.dbr",
           "prefixName": "",
@@ -6041,7 +6116,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 15,
           "pointX": 10,
           "pointY": 0
         },
@@ -6056,23 +6131,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 930674016,
           "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 3,
-          "seed": 25860,
-          "baseName": "Records\\XPack\\Item\\Scrolls\\02_Frailty.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 0,
-          "pointX": 14,
           "pointY": 0
         }
       ]
@@ -6562,7 +6622,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1665239136,
           "pointX": 7,
           "pointY": 9
         }
@@ -6579,171 +6639,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 13624,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_DemetersBounty_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 8622,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_GA_DruidicWreath_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 16142,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act3_VinyGrowth.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1049191648,
-          "pointX": 17,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 21347,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Leafsong_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 16936,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_GA_HandOfGaea_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1561220456,
-          "pointX": 16,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 7616,
-          "baseName": "Records\\XPack\\Item\\Relics\\02_Act4_ShadeOfHektor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_05.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1324216344,
-          "pointX": 17,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 10940,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Leafsong_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 8011,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 9832,
-          "baseName": "records\\item\\relics\\01_act1_goldenfleece.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 17747,
-          "baseName": "records\\item\\animalrelics\\01_act1_pristineplumage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 1738,
-          "baseName": "records\\item\\relics\\01_act1_goldenfleece.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 2137,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_MightOfHephaestus_Formula.dbr",
           "prefixName": "",
@@ -6754,7 +6649,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 7,
           "pointY": 0
         },
         {
@@ -6769,7 +6664,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 2,
           "pointY": 1
         },
         {
@@ -6784,23 +6679,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 2,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 8142,
-          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_BoarsHide.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -6814,7 +6694,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 3,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 8142,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 3
         },
         {
@@ -6829,8 +6724,38 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 2,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 13624,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_DemetersBounty_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 8622,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_GA_DruidicWreath_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 18
         }
       ]
     }
