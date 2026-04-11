@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": {
@@ -203,7 +203,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 945454048,
           "pointX": 0,
           "pointY": 15
         },
@@ -716,21 +716,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 28316,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_BloodOfAres_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1324096432,
-          "pointX": 4,
-          "pointY": 10
         }
       ]
     },
@@ -6089,51 +6074,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
-        },
-        {
-          "stackSize": 3,
-          "seed": 2802,
-          "baseName": "Records\\XPack\\Item\\Scrolls\\02X_Djinni.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 926007160,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 3,
-          "seed": 14614,
-          "baseName": "Records\\XPack\\Item\\Scrolls\\02_ElementalShielding.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 15,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 3,
-          "seed": 15611,
-          "baseName": "Records\\XPack\\Item\\Scrolls\\02X_Vampirism.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 930674016,
-          "pointX": 12,
-          "pointY": 0
         }
       ]
     },
@@ -6172,7 +6112,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1515542760,
           "pointX": 2,
           "pointY": 0
         }
@@ -6198,7 +6138,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 0
         },
@@ -6213,7 +6153,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 1,
           "pointY": 0
         },
@@ -6228,7 +6168,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 0
         },
@@ -6243,7 +6183,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 3,
           "pointY": 0
         }
@@ -6607,24 +6547,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 15,
           "pointX": 7,
           "pointY": 19
-        },
-        {
-          "stackSize": 1,
-          "seed": 6051,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_KnotOfIsis_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1665239136,
-          "pointX": 7,
-          "pointY": 9
         }
       ]
     },
