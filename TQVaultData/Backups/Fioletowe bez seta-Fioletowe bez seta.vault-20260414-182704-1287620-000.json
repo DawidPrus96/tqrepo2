@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": {
@@ -59,21 +59,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4439,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\U_E_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
           "seed": 8455,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Archon'sJudgement.dbr",
           "prefixName": "",
@@ -84,8 +69,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -100,7 +85,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 4
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -115,7 +100,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 8
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -130,7 +115,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 12
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -144,8 +129,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 16
+          "pointX": 2,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -159,8 +144,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 0
+          "pointX": 2,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -175,7 +160,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 4
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -190,7 +175,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 8
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -205,7 +190,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 12
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -219,8 +204,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 16
+          "pointX": 4,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -434,21 +419,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 25139,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Club\\U_E_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1908338752,
-          "pointX": 7,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
           "seed": 29176,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_StymphalianTalon.dbr",
           "prefixName": "",
@@ -459,7 +429,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 1,
           "pointY": 12
         },
         {
@@ -475,7 +445,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 7,
-          "pointY": 15
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -489,7 +459,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 7,
           "pointY": 12
         },
         {
@@ -504,7 +474,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 7,
           "pointY": 15
         },
         {
@@ -519,8 +489,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 0
+          "pointX": 8,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -536,6 +506,21 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 4439,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\U_E_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 7
         }
       ]
     },
@@ -922,7 +907,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 8
         },
@@ -937,7 +922,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1907421248,
           "pointX": 0,
           "pointY": 10
         }
@@ -1229,7 +1214,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 14
         }

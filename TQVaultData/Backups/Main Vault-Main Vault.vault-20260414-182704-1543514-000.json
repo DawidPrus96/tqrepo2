@@ -104,6 +104,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 19072,
+          "baseName": "records\\xpack2\\item\\artifacts\\arcaneformulae\\n_ga_dvalinsimulacrum_formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
           "seed": 283,
           "baseName": "records\\xpack2\\item\\artifacts\\arcaneformulae\\n_la_carnyx_formula.dbr",
           "prefixName": "",
@@ -188,7 +203,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 16
         },
@@ -203,7 +218,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1507300616,
           "pointX": 0,
           "pointY": 17
         },
@@ -236,6 +251,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 16529,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_GA_SandsOfKronos_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1055807915,
+          "pointX": 2,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -584,6 +614,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 9990,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_SongOfTheSerpent_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
           "seed": 6371,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_SongOfTheSerpent_Formula.dbr",
           "prefixName": "",
@@ -749,6 +794,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 13313,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Wraithguard_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
           "seed": 20151,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Wraithguard_Formula.dbr",
           "prefixName": "",
@@ -761,36 +821,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 17
-        },
-        {
-          "stackSize": 1,
-          "seed": 1363,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_CrescentMoonOfArtemis_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 27267,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_PoseidonsNet_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 19
         }
       ]
     },
@@ -803,6 +833,21 @@
         "over": "ITEMS\\ANIMALRELICS\\ANIMALPART02B_L.TEX"
       },
       "items": [
+        {
+          "stackSize": 1,
+          "seed": 20341,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        },
         {
           "stackSize": 1,
           "seed": 26330,
@@ -1630,6 +1675,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 9277,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_StunResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
           "seed": 26287,
           "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
           "prefixName": "",
@@ -2001,7 +2061,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 1
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2016,7 +2076,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 2
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -2031,7 +2091,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 3
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -2046,7 +2106,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 4
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -2061,7 +2121,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 5
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -2076,7 +2136,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 6
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -2091,7 +2151,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 7
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -2106,7 +2166,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 8
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -2121,7 +2181,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 9
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -2136,7 +2196,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 10
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -2151,7 +2211,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 11
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -2166,7 +2226,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 12
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -2181,7 +2241,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 13
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -2196,7 +2256,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 14
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -2211,7 +2271,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 15
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -2226,7 +2286,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 16
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -2241,7 +2301,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 17
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -2255,8 +2315,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 18
+          "pointX": 5,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -2270,8 +2330,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 19
+          "pointX": 5,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -2286,7 +2346,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 0
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -2301,7 +2361,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 1
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2316,7 +2376,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 2
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -2331,7 +2391,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 3
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -2346,7 +2406,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 4
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -2361,7 +2421,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 5
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -2376,7 +2436,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 6
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -2391,7 +2451,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 7
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -2406,7 +2466,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 8
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -2421,7 +2481,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 9
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -2436,7 +2496,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 10
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -2451,7 +2511,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 11
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -2466,7 +2526,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 12
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -2481,7 +2541,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 13
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -2496,7 +2556,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 14
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -2511,7 +2571,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 15
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -2526,7 +2586,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 16
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -2541,7 +2601,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 17
+          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -2555,8 +2615,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 18
+          "pointX": 6,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -2570,8 +2630,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 19
+          "pointX": 6,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -2586,7 +2646,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 0
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -2601,7 +2661,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 1
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2616,7 +2676,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 2
+          "pointY": 4
         }
       ]
     },
@@ -2943,6 +3003,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7343,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -3588,6 +3663,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 20732,
+          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -4563,6 +4653,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 8032,
+          "baseName": "Records\\Item\\Relics\\02_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -6913,6 +7018,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 18636,
+          "baseName": "Records\\XPack\\Item\\Scrolls\\02X_Vengeance.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
           "seed": 2290,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_GA_FuryOfTheAges_Formula.dbr",
           "prefixName": "",
@@ -7029,201 +7149,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 7,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 18636,
-          "baseName": "Records\\XPack\\Item\\Scrolls\\02X_Vengeance.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 10152,
-          "baseName": "records\\xpack2\\item\\artifacts\\arcaneformulae\\e_da_wheeloftaranis_formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1333307488,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 19072,
-          "baseName": "records\\xpack2\\item\\artifacts\\arcaneformulae\\n_ga_dvalinsimulacrum_formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 18129,
-          "baseName": "records\\xpack2\\item\\relics\\02_act5_donarshammer.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1177441336,
-          "pointX": 17,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 7200,
-          "baseName": "records\\xpack2\\item\\charms\\01_act5_golemheart.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 1,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1087432000,
-          "pointX": 17,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 13313,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Wraithguard_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 16529,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_GA_SandsOfKronos_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 7343,
-          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 20341,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 8032,
-          "baseName": "Records\\Item\\Relics\\02_Act1_ArchimedesMirror.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 9990,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_SongOfTheSerpent_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 20732,
-          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 9277,
-          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_StunResist_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
           "pointY": 9
         }
       ]
