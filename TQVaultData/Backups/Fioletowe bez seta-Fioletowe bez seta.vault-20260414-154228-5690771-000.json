@@ -518,7 +518,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1914630208,
           "pointX": 12,
           "pointY": 7
         }
@@ -604,7 +604,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 12
         },
@@ -679,7 +679,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 4
         },
@@ -724,7 +724,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 10
         },
@@ -739,7 +739,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 12
         },
@@ -780,7 +780,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 0
         }
@@ -821,7 +821,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 0
         }
@@ -895,36 +895,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 31364,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_e_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 22433,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_e_03.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1907421248,
-          "pointX": 0,
-          "pointY": 10
         }
       ]
     },
@@ -1020,8 +990,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 1
+          "pointX": 1,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1035,8 +1005,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
+          "pointX": 2,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1050,8 +1020,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
+          "pointX": 3,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1065,8 +1035,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
+          "pointX": 4,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1080,8 +1050,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 5
+          "pointX": 5,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1094,9 +1064,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1110,8 +1080,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 7
+          "pointX": 7,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1125,8 +1095,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
+          "pointX": 8,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1140,8 +1110,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 9
+          "pointX": 9,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1155,8 +1125,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 10
+          "pointX": 10,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1170,8 +1140,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 11
+          "pointX": 11,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1185,8 +1155,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
+          "pointX": 12,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1200,23 +1170,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 12646,
-          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Amulet\\U_E_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 14
+          "pointX": 13,
+          "pointY": 0
         }
       ]
     },
