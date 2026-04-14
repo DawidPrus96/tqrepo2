@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": {
@@ -776,21 +776,6 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 6917,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\axe\\u_e_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1907421248,
-          "pointX": 11,
-          "pointY": 12
         }
       ]
     },
@@ -1526,7 +1511,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1908338752,
           "pointX": 2,
           "pointY": 2
         }
@@ -1851,36 +1836,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 29686,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_06.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 19648,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_04.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 15
         }
       ]
     },
