@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 11,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -752,7 +752,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 14,
           "pointY": 0
         }
@@ -1005,21 +1005,6 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 11
-        },
-        {
-          "stackSize": 1,
-          "seed": 32530,
-          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_HabilimentsoftheDruid.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 7
         }
       ]
     },
@@ -1608,6 +1593,81 @@
         },
         {
           "stackSize": 1,
+          "seed": 26801,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_amulet.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10039,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 32432,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 30842,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 27588,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_head.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
           "seed": 2397,
           "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_ring_01.dbr",
           "prefixName": "",
@@ -1653,6 +1713,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 30824,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_ring_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
           "seed": 9488,
           "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_ring_01.dbr",
           "prefixName": "",
@@ -1680,6 +1755,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 29769,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_ring_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -1803,6 +1893,36 @@
         },
         {
           "stackSize": 1,
+          "seed": 18143,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_torso.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 16231,
+          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_arms.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
           "seed": 11762,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Z_Cowboy01.dbr",
           "prefixName": "",
@@ -1830,21 +1950,6 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 10039,
-          "baseName": "records\\item\\HCDungeon\\us_e_chaoshero_greaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
         }
       ]
     }

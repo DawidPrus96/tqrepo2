@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": {
@@ -803,7 +803,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 16
         },
@@ -818,7 +818,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1397678016,
           "pointX": 4,
           "pointY": 17
         },
@@ -833,7 +833,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 18
         },
@@ -848,7 +848,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 19
         },
@@ -863,69 +863,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 966308744,
           "pointX": 6,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 10834,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\L_LA_TongueOfFlame_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1391889736,
-          "pointX": 6,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 9694,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\L_LA_TongueOfFlame_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1413427552,
-          "pointX": 6,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 23740,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\L_DA_GoldenEyeOfSunWukong_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 28160,
-          "baseName": "records\\xpack2\\item\\artifacts\\arcaneformulae\\e_ga_gjallarhorn_formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1103273880,
-          "pointX": 6,
-          "pointY": 4
         }
       ]
     },
@@ -2074,7 +2014,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 996754456,
           "pointX": 3,
           "pointY": 15
         },
@@ -2149,7 +2089,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1305466456,
           "pointX": 4,
           "pointY": 0
         },
@@ -2239,7 +2179,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1497986136,
           "pointX": 4,
           "pointY": 6
         },
@@ -2344,7 +2284,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1507263720,
           "pointX": 4,
           "pointY": 13
         },
@@ -2404,7 +2344,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1333906600,
           "pointX": 4,
           "pointY": 17
         },
@@ -2494,7 +2434,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1377197224,
           "pointX": 5,
           "pointY": 3
         },
@@ -2509,7 +2449,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1654720776,
           "pointX": 5,
           "pointY": 4
         },
@@ -2614,7 +2554,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1017248424,
           "pointX": 5,
           "pointY": 11
         },
@@ -2629,7 +2569,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1072344232,
           "pointX": 5,
           "pointY": 12
         },
@@ -2644,7 +2584,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1362837240,
           "pointX": 5,
           "pointY": 13
         },
@@ -2659,7 +2599,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1137220544,
           "pointX": 5,
           "pointY": 14
         },
@@ -6720,7 +6660,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 1,
           "pointY": 1
         },
@@ -6735,7 +6675,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1305438784,
           "pointX": 3,
           "pointY": 5
         },
@@ -6750,7 +6690,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 6,
           "pointY": 11
         },
@@ -6765,7 +6705,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1137229768,
           "pointX": 12,
           "pointY": 15
         },
@@ -6780,7 +6720,7 @@
           "var1": 1,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 65668053,
           "pointX": 12,
           "pointY": 16
         },
@@ -6795,7 +6735,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1382717600,
           "pointX": 12,
           "pointY": 17
         },
@@ -6810,7 +6750,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1295742152,
           "pointX": 12,
           "pointY": 18
         },
@@ -6825,7 +6765,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 12,
           "pointY": 19
         },
@@ -6840,7 +6780,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1122514144,
           "pointX": 13,
           "pointY": 0
         },
@@ -6855,7 +6795,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 13,
           "pointY": 1
         },
@@ -6870,7 +6810,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 13,
           "pointY": 2
         }
@@ -7145,6 +7085,21 @@
       "items": [
         {
           "stackSize": 1,
+          "seed": 8951,
+          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_C.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
           "seed": 30135,
           "baseName": "records\\item\\HCDungeon\\x4_HCDung_E_KeySlab_QuestItem_A.dbr",
           "prefixName": "",
@@ -7154,7 +7109,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 6
         },
@@ -7190,6 +7145,66 @@
         },
         {
           "stackSize": 1,
+          "seed": 4070,
+          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_A.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28853,
+          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_A.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 23186,
+          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_C.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 30510,
+          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_B.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
           "seed": 27528,
           "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_B.dbr",
           "prefixName": "",
@@ -7201,6 +7216,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 24965,
+          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_B.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 2
         },
         {
@@ -7262,51 +7292,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 4070,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_A.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 24965,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_B.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 8951,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_C.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
         }
       ]
     },
