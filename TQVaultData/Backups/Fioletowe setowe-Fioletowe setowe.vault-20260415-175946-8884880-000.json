@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 11,
+  "currentlySelectedSackNumber": 8,
   "sacks": [
     {
       "iconinfo": null,
@@ -157,7 +157,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 14,
           "pointY": 5
         }
@@ -225,36 +225,6 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 17603,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\US_L_ChildrenofAres.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 20510,
-          "baseName": "Records\\Item\\EquipmentGreaves\\USm_L_Archmage'sRegalia.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 2
         }
       ]
     },
@@ -292,113 +262,7 @@
     },
     {
       "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 16658,
-          "baseName": "records\\item\\HCDungeon\\US_L_ChaosHero_Head.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 1965,
-          "baseName": "records\\item\\HCDungeon\\US_L_ChaosHero_Amulet.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 13041,
-          "baseName": "records\\item\\HCDungeon\\US_L_ChaosHero_Arms.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 21931,
-          "baseName": "records\\item\\HCDungeon\\US_L_ChaosHero_Greaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 4734,
-          "baseName": "records\\item\\HCDungeon\\US_L_ChaosHero_Arms.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 10454,
-          "baseName": "records\\item\\HCDungeon\\US_L_ChaosHero_Ring_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 23687,
-          "baseName": "records\\item\\HCDungeon\\US_L_ChaosHero_Amulet.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 1,
-          "pointY": 0
-        }
-      ]
+      "items": []
     }
   ]
 }
