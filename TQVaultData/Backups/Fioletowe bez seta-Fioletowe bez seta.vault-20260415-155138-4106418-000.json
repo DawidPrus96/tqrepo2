@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": {
@@ -134,21 +134,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 20419,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Geras'Walkingstick.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 1,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
           "seed": 32166,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_RodoftheAncients.dbr",
           "prefixName": "",
@@ -159,23 +144,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 31848,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_L_FingerboneOfBoreas.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 3,
-          "pointY": 4
+          "pointX": 1,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -190,7 +160,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 8
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -205,22 +175,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 13876,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_L_LeiKun'sGnarledStaff.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 3,
-          "pointY": 16
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -234,8 +189,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 0
+          "pointX": 3,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -249,8 +204,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 4
+          "pointX": 3,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -264,8 +219,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 8
+          "pointX": 3,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -279,8 +234,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 12
+          "pointX": 4,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -295,7 +250,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 16
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -309,8 +264,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 8
+          "pointX": 5,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -324,8 +279,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 12
+          "pointX": 5,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -339,8 +294,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 16
+          "pointX": 5,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -354,23 +309,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 28930,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_L_Nemesis'Recurve.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 4
+          "pointX": 5,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -384,23 +324,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 20385,
-          "baseName": "records\\item\\HCDungeon\\U_L_BowOfUpis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 12
+          "pointX": 6,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -414,8 +339,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 16
+          "pointX": 6,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -429,8 +354,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
+          "pointX": 6,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -444,23 +369,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 2831,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_DoxaKalo.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 8
+          "pointX": 6,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -474,8 +384,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 12
+          "pointX": 6,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -489,8 +399,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 16
+          "pointX": 7,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -504,8 +414,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 0
+          "pointX": 7,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -519,8 +429,113 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
+          "pointX": 7,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 25139,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Club\\U_E_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 29176,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_StymphalianTalon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 30578,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_StymphalianTalon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 29311,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_StymphalianTalon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 18754,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_Zhanlu.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 28239,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_E_TruncheonofMalice.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
           "pointX": 9,
-          "pointY": 3
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30307,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_e_05.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -536,126 +551,6 @@
           "var2": 2035248,
           "pointX": 9,
           "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 25139,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Club\\U_E_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 29176,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_StymphalianTalon.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 30578,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_StymphalianTalon.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 29311,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_StymphalianTalon.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 18754,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_Zhanlu.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 28239,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_E_TruncheonofMalice.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 30307,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_e_05.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 28098,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_RodoftheAncients.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 13,
-          "pointY": 0
         }
       ]
     },
@@ -786,7 +681,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 0
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -800,21 +695,6 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 1848,
-          "baseName": "Records\\Item\\EquipmentShield\\U_E_LeatherSkinShield.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
           "pointX": 2,
           "pointY": 4
         },
@@ -850,21 +730,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 30272,
-          "baseName": "records\\item\\HCDungeon\\U_L_AresWeakness.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 19699,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Shield\\U_E_001.dbr",
           "prefixName": "",
@@ -892,21 +757,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 9170,
-          "baseName": "Records\\Item\\EquipmentShield\\U_E_EidolonShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 0
         }
       ]
     },
@@ -945,7 +795,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 0
         },
@@ -960,7 +810,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 0
         }
@@ -1149,8 +999,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 6868,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Rhesus'WhitewashedArmor.dbr",
+          "seed": 19481,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_L_ShroudofEirene.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1164,23 +1014,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 28798,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_L_Overlord'sIronShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 19481,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_L_ShroudofEirene.dbr",
+          "seed": 6868,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Rhesus'WhitewashedArmor.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1190,22 +1025,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 12226,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 15
+          "pointY": 9
         }
       ]
     },
@@ -1415,21 +1235,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 24657,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_PendantOfImmortalRage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
           "seed": 28941,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_L_Shavo'sRelic.dbr",
           "prefixName": "",
@@ -1441,7 +1246,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 14
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -1456,7 +1261,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 15
+          "pointY": 14
         }
       ]
     },
