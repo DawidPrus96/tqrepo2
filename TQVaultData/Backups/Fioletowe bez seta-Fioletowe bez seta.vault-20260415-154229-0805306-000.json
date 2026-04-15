@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": {
@@ -670,6 +670,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 9170,
+          "baseName": "Records\\Item\\EquipmentShield\\U_E_EidolonShell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 23533,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_LeatherSkinShield.dbr",
           "prefixName": "",
@@ -730,6 +745,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 12389,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\u_e_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
           "seed": 19699,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Shield\\U_E_001.dbr",
           "prefixName": "",
@@ -782,36 +812,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 7652,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_e_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 16005,
-          "baseName": "Records\\Item\\EquipmentHelm\\Um_L_Hesione'sGoldenVeil.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
           "pointY": 0
         }
       ]
@@ -1023,7 +1023,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 9
         }
