@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": {
@@ -29,21 +29,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27982,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_Phorkos'Trident.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 30067,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_Scorpion'sTail.dbr",
           "prefixName": "",
@@ -55,7 +40,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 10
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -70,7 +55,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 15
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -83,9 +68,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 0
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -100,7 +85,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 5
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -115,7 +100,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 10
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -130,7 +115,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 14
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -144,8 +129,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
+          "pointX": 1,
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -160,7 +145,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 4
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -175,7 +160,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 8
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -190,7 +175,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 12
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -205,22 +190,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 5976,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_RodoftheAncients.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 0
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -234,8 +204,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 4
+          "pointX": 3,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -249,8 +219,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 8
+          "pointX": 4,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -265,7 +235,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 12
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -280,7 +250,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 16
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -294,38 +264,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 9417,
-          "baseName": "records\\item\\HCDungeon\\U_L_MedusasAnguish.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 2129,
-          "baseName": "records\\item\\HCDungeon\\U_L_MedusasAnguish.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 8
+          "pointX": 5,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -339,8 +279,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 12
+          "pointX": 5,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -354,8 +294,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 16
+          "pointX": 6,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -369,23 +309,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 7,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 12248,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Khamsin.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -399,8 +324,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 16
+          "pointX": 7,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -414,8 +339,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 0
+          "pointX": 7,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -429,8 +354,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 4
+          "pointX": 7,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -444,8 +369,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 8
+          "pointX": 7,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -459,8 +384,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 12
+          "pointX": 8,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -474,8 +399,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 16
+          "pointX": 8,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -489,8 +414,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
+          "pointX": 8,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -504,23 +429,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 19540,
-          "baseName": "records\\item\\HCDungeon\\U_L_BowOfUpis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
-          "pointY": 8
+          "pointX": 8,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -534,8 +444,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 12
+          "pointX": 8,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -549,8 +459,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 16
+          "pointX": 9,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -564,8 +474,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 0
+          "pointX": 9,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -579,8 +489,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 4
+          "pointX": 9,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -594,38 +504,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 13781,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_Pagos.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 11,
+          "pointX": 9,
           "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 16669,
-          "baseName": "records\\item\\HCDungeon\\U_L_Baguette.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 11,
-          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -639,23 +519,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 29422,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_L_GlacialMaul.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 3
+          "pointX": 1,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -669,8 +534,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
-          "pointY": 6
+          "pointX": 9,
+          "pointY": 16
         },
         {
           "stackSize": 1,
@@ -684,8 +549,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
-          "pointY": 9
+          "pointX": 10,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -699,8 +564,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
-          "pointY": 12
+          "pointX": 10,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -714,8 +579,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
-          "pointY": 15
+          "pointX": 10,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -729,8 +594,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
+          "pointX": 10,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -744,8 +609,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 3
+          "pointX": 10,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -759,8 +624,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 6
+          "pointX": 11,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -774,8 +639,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 9
+          "pointX": 11,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -789,22 +654,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 22881,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_L_SaprosTheCorrupter.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
+          "pointX": 11,
           "pointY": 15
         },
         {
@@ -819,8 +669,53 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 11,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 12248,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Khamsin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 9417,
+          "baseName": "records\\item\\HCDungeon\\U_L_MedusasAnguish.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 29422,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_L_GlacialMaul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 5
         }
       ]
     },
@@ -859,24 +754,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 15944,
-          "baseName": "records\\item\\HCDungeon\\u_l_PerseusDiscus.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 0,
-          "pointY": 5
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -891,7 +771,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 7
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -906,7 +786,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 9
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -921,7 +801,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 11
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -936,7 +816,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 13
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -951,7 +831,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 15
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -966,7 +846,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 17
+          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -980,8 +860,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 17
         },
         {
           "stackSize": 1,
@@ -996,12 +876,42 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 2
+          "pointY": 0
         },
         {
           "stackSize": 1,
           "seed": 30272,
           "baseName": "records\\item\\HCDungeon\\U_L_AresWeakness.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 19699,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Shield\\U_E_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 26809,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\shield\\u_e_002.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1024,54 +934,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 19699,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Shield\\U_E_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 26809,
-          "baseName": "records\\xpack\\item\\equipmentweapons\\shield\\u_e_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 15673,
-          "baseName": "Records\\Item\\EquipmentShield\\U_E_EidolonShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 2,
-          "pointY": 4
+          "pointY": 8
         }
       ]
     },
@@ -1270,21 +1135,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 5567,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_E_PermafrostBracelet.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 0
         }
       ]
     },
@@ -1308,7 +1158,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 0
         },
@@ -1353,7 +1203,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 6,
           "pointY": 0
         },
@@ -1383,7 +1233,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 10,
           "pointY": 0
         },
@@ -1431,21 +1281,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 30741,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_L_VerdantPlate.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 3
         }
       ]
     },
@@ -1475,21 +1310,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19658,
-          "baseName": "Records\\Item\\EquipmentRing\\U_L_BandofSouls.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
           "seed": 17560,
           "baseName": "Records\\Item\\EquipmentRing\\U_L_EyeofHorus.dbr",
           "prefixName": "",
@@ -1501,22 +1321,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 21625,
-          "baseName": "Records\\Item\\EquipmentRing\\U_L_EyeofHorus.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 3
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1531,7 +1336,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 4
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1546,7 +1351,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 5
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -1561,7 +1366,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 6
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -1576,7 +1381,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 7
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -1591,7 +1396,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 8
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -1606,7 +1411,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 9
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -1621,7 +1426,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 10
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -1636,7 +1441,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 11
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -1651,7 +1456,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 12
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -1666,7 +1471,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 13
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -1681,7 +1486,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 14
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -1696,7 +1501,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 15
+          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -1711,7 +1516,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 16
+          "pointY": 14
         },
         {
           "stackSize": 1,
@@ -1726,7 +1531,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 17
+          "pointY": 15
         }
       ]
     },
