@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 8,
   "sacks": [
     {
       "iconinfo": null,
@@ -1020,21 +1020,6 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 1089,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_E_HabilimentsoftheDruid.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 9
         }
       ]
     },
@@ -1118,6 +1103,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 5995,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Helm\\US_E_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
           "seed": 28714,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_E_Rogue'sCover.dbr",
           "prefixName": "",
@@ -1130,51 +1130,6 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 21531,
-          "baseName": "Records\\Item\\EquipmentArmor\\US_E_Rogue'sCover.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 28736,
-          "baseName": "Records\\Item\\EquipmentArmor\\US_E_Rogue'sCover.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 5995,
-          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Helm\\US_E_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 2
         }
       ]
     },
@@ -1300,36 +1255,6 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 10578,
-          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_Adept'sRegalia.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 30808,
-          "baseName": "Records\\Item\\EquipmentArmband\\USm_E_Adept'sRegalia.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
-          "pointY": 0
         }
       ]
     },
@@ -1407,7 +1332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 9
         },
@@ -1437,7 +1362,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 2
         },
@@ -1452,7 +1377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 12,
           "pointY": 2
         }
@@ -1513,8 +1438,8 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 29496,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_amulet.dbr",
+          "seed": 31885,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_head.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1525,141 +1450,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 24519,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_amulet.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 20380,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_amulet.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 16087,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_arms.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 9210,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_arms.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 16952,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_arms.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 19704,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 17873,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 18030,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 22306,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -1674,22 +1464,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 31885,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_head.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 5
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1703,8 +1478,113 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 5
+          "pointX": 0,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 16952,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_arms.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 9210,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_arms.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 16087,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_arms.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 17873,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 18030,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 22306,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 19704,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_greaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 18
         },
         {
           "stackSize": 1,
@@ -1718,8 +1598,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 7
+          "pointX": 2,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1733,23 +1613,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 19896,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_ring_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
+          "pointX": 2,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1763,8 +1628,23 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 8
+          "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 19896,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_ring_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -1779,7 +1659,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 8
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -1793,27 +1673,12 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 29562,
-          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_ring_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1909911616,
           "pointX": 2,
-          "pointY": 7
+          "pointY": 5
         },
         {
           "stackSize": 1,
-          "seed": 31722,
+          "seed": 20380,
           "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_amulet.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1822,9 +1687,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1909911616,
-          "pointX": 3,
-          "pointY": 0
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 24519,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_amulet.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 29496,
+          "baseName": "records\\item\\HCDungeon\\us_e_immortalhero_amulet.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 8
         }
       ]
     },
