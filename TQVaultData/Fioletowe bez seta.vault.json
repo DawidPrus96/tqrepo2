@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 8,
+  "currentlySelectedSackNumber": 11,
   "sacks": [
     {
       "iconinfo": {
@@ -353,7 +353,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
         },
@@ -918,6 +918,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 6916,
+          "baseName": "records\\item\\HCDungeon\\U_L_MedusasAnguish.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 8
         }
       ]
     },
@@ -1181,7 +1196,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 18
         },
@@ -1196,7 +1211,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
         }
@@ -1678,6 +1693,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4024,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_L_RobesofSidirosLoros.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 3
         }
       ]
     },
@@ -2046,9 +2076,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 11451,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_Polaris.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 6
         }
       ]
     },
